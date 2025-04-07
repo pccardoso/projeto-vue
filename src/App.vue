@@ -1,6 +1,8 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Atualizações apenas para a brench teste"/>
+  <HelloWorld msg="Estou nessa branch feature/teste3"/>
+
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates officiis minus cum totam veritatis commodi eius! Quasi aliquid earum sit, tempore harum obcaecati cupiditate quae, reprehenderit soluta, commodi recusandae facilis! </p>
 </template>
 
 <script>
