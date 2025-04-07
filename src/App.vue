@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Alterado para a Branch primeiro"/>
+  <HelloWorld msg="Alterado para a Branch feature/teste2"/>
 </template>
 
 <script>
