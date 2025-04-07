@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Atualizações apenas para a brench teste"/>
+  <HelloWorld msg="Atualizações"/>
 </template>
 
 <script>
